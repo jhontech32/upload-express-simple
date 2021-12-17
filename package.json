@@ -1,0 +1,14 @@
+{
+  "name": "upload-file-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start-dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^17.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
